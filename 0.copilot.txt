@@ -13,9 +13,9 @@ copilot, ini adalah catatan untuk memulai chat-chat kita. saya membuat ini agar 
 
 **Format Penomoran Ayat:**
 - Format umum: `nomor_surat|kode_qiroah nomor_ayat`
-  - Contoh: `2|a6:` untuk surat ke-2 ayat ke-6 semua qiroah.
+  - Contoh: `2|a6:` untuk surat ke-2 ayat ke-6 semua qiroah (Hafsh, Warosy, Qoluwn, Syu'bah, dan Ad-Duwri).
 - Format khusus: `nomor_surat|kode_qiroah nomor_ayat|kode_qiroah nomor_ayat`
-  - Contoh: `2|hs6|wqd5:` untuk surat ke-2 ayat ke-6 qiroah Hafsh dan Syu'bah, ayat ke-5 qiroah Warsy, Qoluwn, dan Ad-Duwri.
+  - Contoh: `2|hs6|wqd5:` untuk surat ke-2 ayat ke-6 qiroah Hafsh dan Syu'bah, ayat ke-5 untuk qiroah Warsy, Qoluwn, dan Ad-Duwri.
   - Contoh: `2|hsd6|wq5:` untuk surat ke-2 ayat ke-6 qiroah Hafsh Syu'bah dan Ad-Duwri, ayat ke-5 qiro'ah Warsy, dan Qoluwn.
 - Untuk menyambung ayat, menggunakan angka 0. Contoh pada surat ke-71 ayat ke-23, pada qiroah Warsy, Qoluwn, dan Ad-Duwri, menjadi ayat ke-24 pada "وَقَالُوا", sedangkan pada qiro'ah Hafsh dan Syu'bah tetap menjadi bagian ayat ke-23.
 
