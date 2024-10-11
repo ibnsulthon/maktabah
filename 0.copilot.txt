@@ -1,0 +1,155 @@
+Bismillah,
+
+copilot, ini adalah catatan untuk memulai chat-chat kita. saya adalah Kurniawan Abiy Isma'il ابن شهريل ابن سلطان خليفة, dan saya sedang membuat terjemahan al-qur'an, terjemahan tafsir ibn katsir, terjemahan tafsir ath-thobari, terjemahan tafsir al-baghowi, terjemahan tafsir fathul-qodir, dan juga sedang menulis kitab dengan judul: Dinulloh Manhaj Nubuwah.
+
+### Catatan Terjemahan Al-Qur'an oleh Kurniawan
+
+**Prinsip Utama:**
+- Selalu menggunakan "الله" daripada "Allah".
+- Mengganti "tuhan" dengan "Robb" atau "Ilah".
+- Mengganti "agama" dengan "Din", "milah", "thoriq", "manhaj", dll.
+- "Andad" menjadi "Andad (berhala)", "Ilahan" menjadi "Ilahan (sesembahan)".
+- Menggunakan logat Qurosyiy, seperti: ghoyb (bukan ghaib), dunya (bukan dunia), akhirot (bukan akhirat), hijroh (bukan hijrah), 'Iysa (bukan isa), 'Aliy (bukan ali), dawlah (bukan daulah). Ini karena menghindari ya dan waw dari dibaca menjadi i dan u (hamzah).
+
+**Format Penomoran Ayat:**
+- Format umum: `nomor_surat|kode_qiroah nomor_ayat`
+  - Contoh: `2|a6:` untuk surat ke-2 ayat ke-6 semua qiroah.
+- Format khusus: `nomor_surat|kode_qiroah nomor_ayat|kode_qiroah nomor_ayat`
+  - Contoh: `2|hs6|wqd5:` untuk surat ke-2 ayat ke-6 qiroah Hafsh dan Syu'bah, ayat ke-5 qiroah Warsy, Qoluwn, dan Ad-Duwri.
+  - Contoh: `2|hsd6|wq5:` untuk surat ke-2 ayat ke-6 qiroah Hafsh Syu'bah dan Ad-Duwri, ayat ke-5 qiroah Warsy, dan Qoluwn.
+- Untuk menyambung ayat, menggunakan angka 0. Contoh pada surat ke-71 ayat ke-23, pada qiroah Warsy, Qoluwn, dan Ad-Duwri, menjadi ayat ke-24 pada "وَقَالُوا", sedangkan pada qiroah Hafsh dan Syu'bah tetap menjadi bagian ayat ke-23.
+
+Contoh Terjemahan surat ke-71:
+
+<span lang="ar">
+71|a11:يُرْسِلِ السَّمَاءَ عَلَيْكُم مِّدْرَارًا
+71|a12:وَيُمْدِدْكُم بِأَمْوَالٍ وَبَنِينَ وَيَجْعَل لَّكُمْ جَنَّاتٍ وَيَجْعَل لَّكُمْ أَنْهَارًا
+71|a13:مَّا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا
+71|a14:وَقَدْ خَلَقَكُمْ أَطْوَارًا
+71|a15:أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا
+71|a16:وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا
+71|a17:وَاللَّهُ أَنبَتَكُم مِّنَ الْأَرْضِ نَبَاتًا
+71|a18:ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
+71|a19:وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا
+71|a20:لِّتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا
+71|a21:قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا
+71|a22:وَمَكَرُوا مَكْرًا كُبَّارًا
+71|a23:وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا
+71|hs0|wqd24:وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا
+71|hs24|wqd25:وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا
+71|hs25|wqd26:مِّمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا
+71|hs0|wqd27:فَلَمْ يَجِدُوا لَهُم مِّن دُونِ اللَّهِ أَنصَارًا
+71|hs26|wqd28:وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا
+71|hs27|wqd29:إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا
+71|hs28|wqd30:رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا
+</span>
+<span lang="en">
+71|a11:He will send [rain from] the sky upon you in showers,
+71|a12:and He will increase you in wealth and children, and provide for you gardens, and provide for you [also] rivers.
+71|a13:What is it with you? Not expect from [greatness of] الله's and indifferent?
+71|a14:While He has created you in stages.
+71|a15:Do you not consider how الله has created seven skies in levels?
+71|a16:And made the moon therein a [reflected] light and made the sun a burning lamp?
+71|a17:And الله has grow [for] you from the earth a [progressive] growth,
+71|a18:then He will return you into it, and extract you [from it at Resurrection Day by command of] extraction.
+71|a19:And الله has made for you the earth an expanse,
+71|a20:that you may roam therein paths of passage widely”.
+71|a21:Noah said, “My Lord, indeed they have disobeyed me, and followed whose never increase wealth and children except in loss,
+71|a22:and conspired [with] an immense conspiracy.
+71|a23:And [they] said, ‘Don't leave [worshiping] your deities, and don't [also] leave [worshiping] Wadd, and don't [also] Suwa',
+71|hs0|wqd24:and don't [also] Yaghuth, and Ya'uq and Nasr’.
+71|hs24|wqd25:In fact [they] already misled many [mankind]; and [my Lord], do not increase the wrongdoers except in error”.
+71|hs25|wqd26:Because of their faults, they were drowned and put into the Fire,
+71|hs0|wqd27:so they found not for themselves besides الله [any] helpers.
+71|hs26|wqd28:And Noah said, “My Lord, do not leave upon the earth from among the disbelievers [settle] on shelter country (nation).
+71|hs27|wqd29:Truly if You leave them, they will mislead Your servants, and not beget except wicked one while disbeliever.
+71|hs28|wqd30:My Lord, forgive me and my parents, and whoever enters my house [as] a believer, and the believing men and believing women. And do not increase the wrongdoers except in destruction”.
+</span>
+<span lang="id">
+71|a11:Dia akan kirimkan hujan kepada kalian dengan lebat,
+71|a12:dan Dia akan membanyakkan harta dan anak-anak kalian, dan menyediakan kalian kebun-kebun, dan menyediakan kalian [pula] sungai-sungai.
+71|a13:Ada apa dengan kalian? Tak berharap dari [kebesaran] الله dan acuh?
+71|a14:Padahal Dia telah ciptakan kalian dalam beberapa tingkatan.
+71|a15:Tidakkah kalian perhatikan bagaimana الله telah ciptakan tujuh langit bertingkat-tingkat?
+71|a16:Dan ciptakan padanya bulan [memantulkan] cahaya dan menjadikan matahari sebagai pelita?
+71|a17:Dan الله tumbuhkan [bagi] kalian dari bumi dengan pertumbuhan [bertahapan],
+71|a18:lalu Dia kembalikan kalian ke dalamnya, dan mengeluarkan kalian [darinya pada Hari Qiyamat dengan perintah] pengeluaran.
+71|a19:Dan الله jadikan bumi untuk kalian terbentang,
+71|a20:supaya kalian dapat jelajahi padanya jalur-jalur seluasnya”.
+71|a21:Berkata Nuh: “Robbku, sungguh mereka telah mendurhakaiku, dan mengikuti yang tak pernah menambah harta dan anak-anaknya melainkan kerugian,
+71|a22:dan bermakar [dengan] makar yang amat besar.
+71|a23:Dan [mereka] berkata: ‘Jangan meninggalkan [penyembahan] I_lah-I_lah kalian, dan jangan [pula] meninggalkan [penyembahan] Wadd, dan jangan [pula] Suwwa',
+71|hs0|wqd24:dan jangan [pula] Yaghuts, dan Ya'uq, dan Nasr’.
+71|hs24|wqd25:Bahkan [mereka] telah menyesatkan banyak [manusia]; dan [Robbku], janganlah Engkau tambahkan bagi orang-orang zholim itu selain kesesatan”.
+71|hs25|wqd26:Disebabkan salah-salah mereka, mereka ditenggelamkan lalu dimasukkan ke neraka,
+71|hs0|wqd27:maka mereka tak pernah dapat bagi mereka sendiri selain dari الله [sebagai] para penolong.
+71|hs26|wqd28:Nuh berkata: “Robbku, janganlah Engkau biarkan di atas bumi dari orang-orang kafir itu [menetapi] negeri bernaung (negara).
+71|hs27|wqd29:Sungguh jika Engkau biarkan mereka, niscaya mereka akan menyesatkan hamba-hambaMu, dan mereka tak akan melahirkan selain pendosa lagi kafir.
+71|hs28|wqd30:Robbku, ampunilah aku dan kedua orangtuaku, dan siapapun yang masuk ke rumahku [sebagai] seorang mu'min, dan semua lelaki beriman dan perempuan beriman. Dan janganlah Engkau tambahkan bagi orang-orang yang zholim itu selain kebinasaan”.
+</span>
+
+Contoh Terjemahan surat ke-73:
+
+<span lang="ar">
+73|a1:يَا أَيُّهَا الْمُزَّمِّلُ
+73|hsd2|wq0:قُمِ اللَّيْلَ إِلَّا قَلِيلًا
+73|hsd3|wq2:نِّصْفَهُ أَوِ انقُصْ مِنْهُ قَلِيلًا
+73|hsd4|wq3:أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا
+73|hsd5|wq4:إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا
+73|hsd6|wq5:إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا
+73|hsd7|wq6:إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا
+73|hsd8|wq7:وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا
+73|hsd9|wq8:رَّبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَـٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا
+73|hsd10|wq9:وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا
+73|hsd11|wq10:وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا
+73|hsd12|wq11:إِنَّ لَدَيْنَا أَنكَالًا وَجَحِيمًا
+73|hsd13|wq12:وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا
+73|hsd14|wq13:يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَّهِيلًا
+73|hsd15|wq14:إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا
+73|hsd16|wq15:فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا
+73|hsd17|wq16:فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا
+73|hsd18|wq0:السَّمَاءُ مُنفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا
+73|hsd19|wq17:إِنَّ هَـٰذِهِ تَذْكِرَةٌ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا
+</span>
+<span lang="en">
+73|a1:O you who wraps himself [in clothing],
+73|hsd2|wq0:arise [to pray] the night, except for a little [of it],
+73|hsd3|wq2:half of it, or subtract from it a little,
+73|hsd4|wq3:or add to it, and recite the Qur'an with tartil.
+73|hsd5|wq4:Indeed, We will cast upon you a heavy word.
+73|hsd6|wq5:Indeed, the night time are more concurrence [of heart and tongue], and more suitable for words.
+73|hsd7|wq6:Indeed, for you by day is prolonged occupation (busy).
+73|hsd8|wq7:And remember the name of your Lord, and devote to Him with [complete] devotion.
+73|hsd9|wq8:[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of affairs.
+73|hsd10|wq9:And be patient over what they say, and avoid them with gracious avoidance.
+73|hsd11|wq10:And leave Me with [the matter of] the deniers, those of life luxury, and allow them respite a little.
+73|hsd12|wq11:Indeed, with Us [for them] are shackles and burning fire,
+73|hsd13|wq12:And food that chokes, and a painful punishment.
+73|hsd14|wq13:On the Day the earth and the mountains will convulse, and the mountains will become a heap of pouring sand.
+73|hsd15|wq14:[And We will said]: “Indeed, We have sent to you a Messenger, as a witness upon you, just as We sent to Pharaoh a messenger”,
+73|hsd16|wq15:but Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.
+73|hsd17|wq16:Then how can you fear, if you disbelieve a Day that will make the children white-haired?,
+73|hsd18|wq0:the sky will break apart therefrom; ever is His promise fulfilled.
+73|hsd19|wq17:Indeed, this is a reminder. So whoever wills, may take to his Lord a way.
+</span>
+<span lang="id">
+73|a1:Hai orang yang terbungkus [dalam selimut],
+73|hsd2|wq0:bangunlah [untuk sholat] di malam hari, kecuali sedikit [darinya],
+73|hsd3|wq2:setengahnya, atau kurangi dari itu sedikit,
+73|hsd4|wq3:atau tambahkan dari itu. Dan bacalah Al-Qur'an itu dengan tartil.
+73|hsd5|wq4:Sungguh, Kami akan turunkan kapadamu perkataan yang berat.
+73|hsd6|wq5:Sungguh, di waktu malam adalah lebih tepat [untuk khusyu'], dan perkataan lebih berkesan.
+73|hsd7|wq6:Sungguh, kamu di siang hari punya urusan yang panjang (sibuk).
+73|hsd8|wq7:Ingatlah nama Robbmu, dan berdedikasilah kepadaNya dengan [penuh] kesetiaan.
+73|hsd9|wq8:[Dialah] Robb masyrik dan maghrib; tiada Ilah melainkan Dia, maka ambillah Dia sebagai pelindung.
+73|hsd10|wq9:Dan bersabarlah terhadap apa yang mereka ucapkan, dan jauhi mereka dengan menjauh yang baik.
+73|hsd11|wq10:Dan biarkan Aku [bertindak] terhadap para pendusta; para pemilik kemewahan, dan beri tangguh mereka sebentar.
+73|hsd12|wq11:Sungguh, pada Kami [untuk mereka] belenggu-belenggu dan api yang menyala-nyala,
+73|hsd13|wq12:dan makanan yang menyumbat di kerongkongan, dan 'adzab yang pedih.
+73|hsd14|wq13:Pada hari bumi dan gunung-gunung berguncangan, dan jadilah gunung-gunung itu tetumpukan pasir yang berterbangan.
+73|hsd15|wq14:[Dan Kami akan berkata]: “Sungguh, Kami telah utus kepadamu seorang Rosul, yang menyaksikan atasmu, sebagaimana Kami telah utus seorang Rosul kepada Fir'awn”,
+73|hsd16|wq15:maka Fir'awn mendurhakai Rosul itu, lalu Kami menangkap dia dengan tangkapan destruktif.
+73|hsd17|wq16:Maka bagaimanakah kamu akan takut, jika kamu tetap kafir kepada hari yang menjadikan anak-anak beruban?,
+73|hsd18|wq0:langitpun terpecah belah saatnya; adalah janjiNya itu pasti terlaksana.
+73|hsd19|wq17:Sungguh, inilah suatu peringatan. Maka siapa ingin, dia menempuh kepada Robbnya suatu jalan.
+</span>
