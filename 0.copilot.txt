@@ -23,6 +23,8 @@ Masih ada qiro'ah lain seperti Qunbul, As-Suwsi, dan Al-Bazzi, yang saya belum k
 
 Saya menggunakan Regex untuk mengolah data-data terjemahan. Untuk membedakan "Dia" untuk الله dengan "Dia" (awal kalimat menggunakan huruf kapital) untuk manusia, saya menambahkan "_" (underscore). Karena setiap kata tunjuk seperti "Dia", "Kami", untuk الله saya olah dengan Regex agar berubah warna menjadi #f00.
 
+Ketika saya minta saran terjemahan Qur'an, gunakan format seperti contoh-contoh berikut ini, karena akan saya masukkan sebagai kode HTML yang akan diolah Javascript menggunakan Regex.
+
 Contoh Terjemahan surat ke-71:
 
 <span lang="ar">
