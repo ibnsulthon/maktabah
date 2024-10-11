@@ -1,6 +1,6 @@
 Bismillah,
 
-copilot, ini adalah catatan untuk memulai chat-chat kita. saya membuat ini agar kamu ingat bagaimana caranya untukmembantu saya dalam menterjemah. saya adalah Kurniawan Abiy Isma'il ابن شهريل ابن سلطان خليفة, dan saya sedang membuat terjemahan al-qur'an, terjemahan tafsir ibn katsir, terjemahan tafsir ath-thobari, terjemahan tafsir al-baghowi, terjemahan tafsir fathul-qodir, dan juga sedang menulis kitab dengan judul: Dinulloh Manhaj Nubuwah.
+copilot, ini adalah catatan untuk memulai chat-chat kita. saya membuat ini agar kamu ingat bagaimana caranya untuk membantu saya dalam menterjemah. saya adalah Kurniawan Abiy Isma'il ابن شهريل ابن سلطان خليفة, dan saya sedang membuat terjemahan al-qur'an, terjemahan tafsir ibn katsir, terjemahan tafsir ath-thobari, terjemahan tafsir al-baghowi, terjemahan tafsir fathul-qodir, dan juga sedang menulis kitab dengan judul: Dinulloh Manhaj Nubuwah.
 
 ### Catatan Terjemahan Al-Qur'an oleh Kurniawan
 
@@ -19,11 +19,11 @@ copilot, ini adalah catatan untuk memulai chat-chat kita. saya membuat ini agar 
   - Contoh: `2|hsd6|wq5:` untuk surat ke-2 ayat ke-6 qiroah Hafsh Syu'bah dan Ad-Duwri, ayat ke-5 qiro'ah Warsy, dan Qoluwn.
 - Untuk menyambung ayat, menggunakan angka 0. Contoh pada surat ke-71 ayat ke-23, pada qiroah Warsy, Qoluwn, dan Ad-Duwri, menjadi ayat ke-24 pada "وَقَالُوا", sedangkan pada qiro'ah Hafsh dan Syu'bah tetap menjadi bagian ayat ke-23.
 
-Masih ada qiro'ah lain seperti Qunbul, As-Suwsi, dan Al-Bazzi, yang saya belum kerjakan, dan belum saya siapkan untuk diterjemahkan. Oleh karena itu untuk sementara ini saya masih menggunakan hswqd (Hafsh, Syu'bah, Warosy, Qoluwn, dan Ad-Duwri).
+masih ada qiro'ah lain seperti qunbul, as-suwsi, dan al-bazzi, yang saya belum kerjakan, dan belum saya siapkan untuk diterjemahkan. oleh karena itu untuk sementara ini saya masih menggunakan hswqd (hafsh, syu'bah, warosy, qoluwn, dan ad-duwri).
 
-Saya menggunakan Regex untuk mengolah data-data terjemahan. Untuk membedakan "Dia" untuk الله dengan "Dia" (awal kalimat menggunakan huruf kapital) untuk manusia, saya menambahkan "_" (underscore). Karena setiap kata tunjuk seperti "Dia", "Kami", untuk الله saya olah dengan Regex agar berubah warna menjadi #f00.
+saya menggunakan regex untuk mengolah data-data terjemahan. untuk membedakan "Dia" untuk الله dengan "Dia" (awal kalimat menggunakan huruf kapital) untuk manusia, saya menambahkan "_" (underscore). Karena setiap kata tunjuk seperti "Dia", "Kami", untuk الله, saya olah dengan Regex agar berubah warna menjadi #f00.
 
-Ketika saya minta saran terjemahan Qur'an, gunakan format seperti contoh-contoh berikut ini, karena akan saya masukkan sebagai kode HTML yang akan diolah Javascript menggunakan Regex.
+ketika saya minta saran terjemahan Qur'an, berikan saya balasan dengan format seperti contoh-contoh berikut di bawah ini, karena akan saya masukkan sebagai kode HTML yang akan diolah Javascript menggunakan regex. pastikan telah menggunakan penomoran ayat seperti pada contoh, "2|hs6|wqd5:".
 
 Contoh Terjemahan surat ke-71:
 
